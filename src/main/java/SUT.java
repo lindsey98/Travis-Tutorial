@@ -21,3 +21,5 @@ public class SUT {
         throw new IllegalArgumentException("Result format is wrong");
     }
 }
+
+//hahahaha
